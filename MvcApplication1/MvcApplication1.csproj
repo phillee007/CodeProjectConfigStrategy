@@ -250,7 +250,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="HiddenSettings.config" />
-    <Content Include="HiddenSetting.template.config">
+    <Content Include="HiddenSettings.template.config">
       <SubType>Designer</SubType>
     </Content>
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
